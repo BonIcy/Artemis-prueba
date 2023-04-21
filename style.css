@@ -1,0 +1,16 @@
+
+body {
+	font-family: Arial, sans-serif;
+	background-color: #0000;
+	padding: 20px;
+}
+input[type="text"] {
+    color: aquamarine;
+	width: 20rem;
+	padding: 10px;
+	font-size: 18px;
+	border: none;
+	border-radius: 35px;
+	margin-bottom: 20px;
+    background-color: rgba(240, 248, 255, 0.048);
+}
